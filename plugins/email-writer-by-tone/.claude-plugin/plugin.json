@@ -1,0 +1,23 @@
+{
+  "name": "email-writer-by-tone",
+  "displayName": "Email Writer by Tone",
+  "version": "1.0.0",
+  "description": "Writes and replies to emails in the tone you choose, professional, polite, friendly or firm, clear and concise.",
+  "author": {
+    "name": "Plugins Factory",
+    "email": "support@example.com",
+    "url": "https://github.com/SvyatoSllav"
+  },
+  "homepage": "https://github.com/SvyatoSllav/claude-plugins/blob/main/plugins/email-writer-by-tone/README.md",
+  "repository": "https://github.com/SvyatoSllav/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "email writer",
+    "reply",
+    "professional email",
+    "follow up",
+    "business writing",
+    "tone"
+  ]
+}

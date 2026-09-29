@@ -1,0 +1,22 @@
+{
+  "name": "grammar-clarity-checker",
+  "displayName": "Grammar & Clarity Checker",
+  "version": "1.0.0",
+  "description": "Fixes grammar, spelling and punctuation, explains each change and suggests clearer wording.",
+  "author": {
+    "name": "Plugins Factory",
+    "email": "support@example.com",
+    "url": "https://github.com/SvyatoSllav"
+  },
+  "homepage": "https://github.com/SvyatoSllav/claude-plugins/blob/main/plugins/grammar-clarity-checker/README.md",
+  "repository": "https://github.com/SvyatoSllav/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "grammar",
+    "proofreading",
+    "spelling",
+    "punctuation",
+    "clarity",
+    "essay check"
+  ]
+}

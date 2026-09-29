@@ -1,0 +1,23 @@
+{
+  "name": "resume-tailor-job-match",
+  "displayName": "Resume Tailor & Job Match",
+  "version": "1.0.0",
+  "description": "Tailors your resume to a specific job, scores the match and rewrites bullets with the right keywords for ATS.",
+  "author": {
+    "name": "Plugins Factory",
+    "email": "support@example.com",
+    "url": "https://github.com/SvyatoSllav"
+  },
+  "homepage": "https://github.com/SvyatoSllav/claude-plugins/blob/main/plugins/resume-tailor-job-match/README.md",
+  "repository": "https://github.com/SvyatoSllav/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "resume",
+    "cv",
+    "ats",
+    "job application",
+    "resume tailoring",
+    "job description",
+    "career"
+  ]
+}

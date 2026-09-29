@@ -1,0 +1,23 @@
+{
+  "name": "english-speaking-practice",
+  "displayName": "English Speaking Practice",
+  "version": "1.0.0",
+  "description": "Practice English conversation at your level with gentle corrections after each reply and useful phrases.",
+  "author": {
+    "name": "Plugins Factory",
+    "email": "support@example.com",
+    "url": "https://github.com/SvyatoSllav"
+  },
+  "homepage": "https://github.com/SvyatoSllav/claude-plugins/blob/main/plugins/english-speaking-practice/README.md",
+  "repository": "https://github.com/SvyatoSllav/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "english practice",
+    "speaking",
+    "conversation",
+    "esl",
+    "learn english",
+    "fluency",
+    "grammar correction"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "long-form-story-writer",
+  "displayName": "Long-Form Story Writer",
+  "version": "1.0.0",
+  "description": "Writes long, coherent stories chapter by chapter from your premise, keeping characters and plot consistent.",
+  "author": {
+    "name": "Plugins Factory",
+    "email": "support@example.com",
+    "url": "https://github.com/SvyatoSllav"
+  },
+  "homepage": "https://github.com/SvyatoSllav/claude-plugins/blob/main/plugins/long-form-story-writer/README.md",
+  "repository": "https://github.com/SvyatoSllav/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "story writer",
+    "fiction",
+    "short story",
+    "fantasy",
+    "creative writing",
+    "chapters",
+    "storytelling"
+  ]
+}

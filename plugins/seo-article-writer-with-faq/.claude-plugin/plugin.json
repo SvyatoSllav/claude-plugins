@@ -1,0 +1,23 @@
+{
+  "name": "seo-article-writer-with-faq",
+  "displayName": "SEO Article Writer with FAQ",
+  "version": "1.0.0",
+  "description": "Writes search-optimized articles for a keyword with an outline, meta title, meta description and FAQ section.",
+  "author": {
+    "name": "Plugins Factory",
+    "email": "support@example.com",
+    "url": "https://github.com/SvyatoSllav"
+  },
+  "homepage": "https://github.com/SvyatoSllav/claude-plugins/blob/main/plugins/seo-article-writer-with-faq/README.md",
+  "repository": "https://github.com/SvyatoSllav/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "seo article",
+    "blog post",
+    "keyword",
+    "faq",
+    "meta description",
+    "content writing"
+  ]
+}

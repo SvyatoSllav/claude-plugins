@@ -1,0 +1,25 @@
+{
+  "name": "flirty-reply-coach",
+  "displayName": "Flirty Reply Coach",
+  "version": "1.0.0",
+  "description": "Helps you write witty, respectful replies and openers for dating apps and chats, in your own voice.",
+  "author": {
+    "name": "Plugins Factory",
+    "email": "support@example.com",
+    "url": "https://github.com/SvyatoSllav"
+  },
+  "homepage": "https://github.com/SvyatoSllav/claude-plugins/blob/main/plugins/flirty-reply-coach/README.md",
+  "repository": "https://github.com/SvyatoSllav/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "dating",
+    "dating app",
+    "rizz",
+    "opener",
+    "pickup line",
+    "texting",
+    "flirting",
+    "tinder",
+    "hinge"
+  ]
+}

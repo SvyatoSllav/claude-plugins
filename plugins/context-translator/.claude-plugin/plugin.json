@@ -1,0 +1,24 @@
+{
+  "name": "context-translator",
+  "displayName": "Context Translator",
+  "version": "1.0.0",
+  "description": "Translates text between any languages while keeping tone, formatting and meaning, with notes on tricky phrases.",
+  "author": {
+    "name": "Plugins Factory",
+    "email": "support@example.com",
+    "url": "https://github.com/SvyatoSllav"
+  },
+  "homepage": "https://github.com/SvyatoSllav/claude-plugins/blob/main/plugins/context-translator/README.md",
+  "repository": "https://github.com/SvyatoSllav/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "translation",
+    "translate",
+    "translator",
+    "localization",
+    "spanish",
+    "french",
+    "german",
+    "japanese"
+  ]
+}
