@@ -1,0 +1,22 @@
+:root{--bg:#fbfaf8;--fg:#1d1b19;--muted:#66615b;--card:#fff;--line:#e7e2db;--accent:#b4532a;--accent-fg:#fff;--code:#f2efea}
+@media (prefers-color-scheme:dark){:root{--bg:#141312;--fg:#ece8e2;--muted:#a59f97;--card:#1d1b19;--line:#33302c;--accent:#e08a5f;--accent-fg:#1a1410;--code:#23201d}}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--accent)}main,header,footer{max-width:920px;margin:0 auto;padding:0 16px}
+header{padding-top:28px;padding-bottom:8px;display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+header .logo{font-weight:700;color:var(--fg);text-decoration:none}header nav a{margin-right:16px;color:var(--muted);text-decoration:none}
+h1{font-size:clamp(28px,5vw,40px);line-height:1.15;margin:24px 0 8px}h2{font-size:22px;margin:36px 0 10px}h3{font-size:17px;margin:18px 0 6px}
+.lead{font-size:18px;color:var(--muted);margin:0 0 20px;max-width:680px}
+.search{width:100%;padding:12px 14px;font-size:16px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);margin:8px 0 18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;text-decoration:none;color:var(--fg)}
+.card:hover{border-color:var(--accent)}.card .n{font-weight:650;margin:6px 0 4px}.card p{margin:0;color:var(--muted);font-size:14px}
+.tag{display:inline-block;font-size:12px;padding:2px 8px;border-radius:99px;border:1px solid var(--line);color:var(--muted)}
+.box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin:12px 0}
+code,pre{font-family:ui-monospace,Consolas,monospace;background:var(--code);border-radius:6px}code{padding:1px 5px;font-size:14px}pre{padding:12px;overflow-x:auto;font-size:14px;white-space:pre-wrap;overflow-wrap:anywhere}
+ul.prompts{padding-left:20px}ul.prompts li{margin:4px 0}
+.btn{display:inline-block;background:var(--accent);color:var(--accent-fg);padding:10px 16px;border-radius:8px;text-decoration:none;font-weight:600;margin:4px 8px 4px 0}
+.btn.alt{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+details{border-bottom:1px solid var(--line);padding:10px 0}summary{cursor:pointer;font-weight:600}
+footer{color:var(--muted);font-size:14px;padding-top:40px;padding-bottom:40px}
+.hidden{display:none}

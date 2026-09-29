@@ -5,7 +5,7 @@
   "description": "Turns a rough request into a clear, structured prompt with role, context, constraints and output format.",
   "author": {
     "name": "Plugins Factory",
-    "email": "support@example.com",
+    "email": "tarasov.slavas2002@gmail.com",
     "url": "https://github.com/SvyatoSllav"
   },
   "homepage": "https://github.com/SvyatoSllav/claude-plugins/blob/main/plugins/prompt-improver/README.md",
